@@ -5,6 +5,7 @@ source "http://rubygems.org"
 
 gem "activemodel"
 gem "uuid"
+gem "rugged"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
